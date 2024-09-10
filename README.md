@@ -30,12 +30,12 @@ To perform automated mobile app testing on the MX Player application using Java 
 ## Directory Structure
 Appium-Java-Assignment/
 ├─ src/
-│  ├─ main/
-│  │  ├─ java/
-│  │  │  ├─ com/
-│  │  │  │  ├─ example/
-│  │  │  │  │  ├─ tests/
-│  │  │  │  │  │  ├─ MXPlayerTest.java
+├─ main/
+├─ java/
+├─ com/
+├─ example/
+├─ tests/
+├─ MXPlayerTest.java
 ├─ pom.xml
 ├─ README.md
 
